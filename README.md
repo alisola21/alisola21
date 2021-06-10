@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🏝
 
 - 👩‍🎓I'm a master student in Digital Humanities at University of Pisa
 - 👩‍💻 I'm interested in data management, 3D digitalization, Human Computer Interaction and in anything that combines Computer Science with human and social aspects
