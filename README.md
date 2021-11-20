@@ -5,3 +5,6 @@
 - 🧠 I'm currently learning Java and Data processing in Python.
 
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisola21&theme=onedark&show_icons=true)
+
+
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisola21&layout=compact)]
