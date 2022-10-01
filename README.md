@@ -1,4 +1,4 @@
-## Hi there 👋 🏝
+## Hello there 👋 🏝
 
 🎓 I'm a **master’s student** in **Digital Humanities** at University of Pisa.
 
