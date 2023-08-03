@@ -1,7 +1,7 @@
 ## Hello there 👋 🏝
 
 👩‍💻 NLP Engineer  
-🧠 Interested in **Data Analysis**, **Complex Networks**, **Natural Language Processing**, and in anything that combines Computer Science with Human and Social aspects.
+🧠 Interested in **Data Analysis**, **Complex Networks**, **Natural Language Processing**, and in anything that combines Computer Science with human and social aspects.
 
 ![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisola21&theme=react&show_icons=true)
 
