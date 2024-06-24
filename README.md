@@ -1,15 +1,14 @@
 # Hello there 👋🏻
 
-I am Alice. Yes, I'm a girl and yes I'm passionate about IT and think I work in this area 👩🏻‍💻
-  
-Just kidding, IT has no gender, it's open (source) to everyone! 🤗
+I am Alice, I'm passionate about IT and I work in this area as an NLP engineer👩🏻‍💻
   
 ## 🧠 Interests and areas
   
 I love IT in all its aspects, but I am especially passionate about
   
-- 🗣️ Natural Language Processing
+- 🗣️  Natural Language Processing
 - 🤖  Artificial intelligence
+- 💻  Programming and developing software
 - 📊  Data Analysis
 - ♾️  DevOps
 - ☁️  Cloud Native
